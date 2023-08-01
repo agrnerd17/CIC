@@ -4,7 +4,7 @@
 <!-- ABOUT THE PROJECT -->
 ## Heart Disease Prediction Model
 
-Prediction Model:
+The Project:
 
 * Uses <b>machine learning</b> methods to make a classification model. 
 * Made in Jupyter Notebook environment.
