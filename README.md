@@ -3,12 +3,7 @@
 
 <!-- ABOUT THE PROJECT -->
 ## Heart Disease Prediction Model
-<details>
-  <summary>Data Visualization Using plotly and connectivity graph using tensorflow</summary><details>
-  <img src="C:\Users\ameli\Downloads\linear_regression.png" name="linear_regression">
-  <img src="image-url" name="image-name">
-  <img src="image-url" name="image-name">
-</details>
+
 
 Prediction Model:
 
