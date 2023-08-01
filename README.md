@@ -6,9 +6,9 @@
 
 Prediction Model:
 
-* Uses <b>machine learning</b> methods to make a prediction model. 
+* Uses <b>machine learning</b> methods to make a classification model. 
 * Made in Jupyter Notebook environment.
-* Currently displays data as a table using python's pandas module. 
+* Currently uses plotly for data visualization. 
 
 <p align="right">(<a href="#readme-top">back to top</a>)</p>
 ### Built With
@@ -25,8 +25,9 @@ Languages used:
 ## Updates
 
 - [X] Load in .csv dataset using tensorflow and pandas.
-- [ ] Use pandas to output table and graph from dataset.
-- [ ] Use tensorflor for clustering.
+- [X] Use pandas to output table and graph from dataset.
+- [X] Use tensorflor for ML classification.
+- [ ] Work on increasing accuracy %.
 
 <p align="right">(<a href="#readme-top">back to top</a>)</p>
 
