@@ -3,7 +3,7 @@
 
 <!-- ABOUT THE PROJECT -->
 ## Heart Disease Prediction Model
-
+<img src="https://github.com/agrnerd17/<CIC>/blob/master/<model.png>" alt="connectivity graph">
 
 Prediction Model:
 
